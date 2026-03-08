@@ -13,6 +13,7 @@
   "dependencies": {
     "@fastify/cors": "^11.2.0",
     "@prisma/adapter-better-sqlite3": "^7.4.2",
+    "@prisma/client": "^7.4.2",
     "@types/node": "^25.3.5",
     "better-sqlite3": "^12.6.2",
     "dotenv": "^17.3.1",
